@@ -4,7 +4,12 @@ title: Mission
 colors: colors-a
 date: '2022-09-15'
 client: Awesome client
-description: ''
+description: >-
+  La mission dello Studio Legale Carta & Associati è fornire assistenza legale
+  di eccellenza, con un impegno costante verso l'integrità, la professionalità e
+  la tutela dei diritti dei nostri clienti. Ci dedichiamo a risolvere le
+  problematiche legali con soluzioni innovative e personalizzate, garantendo
+  trasparenza e costruendo relazioni di fiducia durature.
 featuredImage:
   type: ImageBlock
   url: /images/contact.jpg
