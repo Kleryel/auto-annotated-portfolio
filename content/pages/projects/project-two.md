@@ -5,9 +5,10 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Siamo specializzati nella difesa tributaria dei cittadini, offrendo una gamma
+  completa di servizi legali per rispondere alle vostre esigenze. La nostra
+  esperienza si estende a tutti i campi del diritto, permettendoci di assistervi
+  con competenza e professionalità in ogni situazione.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
