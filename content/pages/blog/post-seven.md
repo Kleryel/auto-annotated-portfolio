@@ -9,10 +9,6 @@ author: content/data/team/doris-soto.json
 excerpt: >-
   Lo Studio Legale Carta & Associati ha sempre guardato al futuro con
   determinazione e spirito innovativo.
-featuredImage:
-  type: ImageBlock
-  url: /images/featured-Image1.jpg
-  altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
   url: /images/gallery-3.jpg
