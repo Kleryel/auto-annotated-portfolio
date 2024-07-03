@@ -4,7 +4,7 @@ title: "Ci dedichiamo a risolvere le problematiche legali con soluzioni innovati
 colors: colors-a
 date: '2016-09-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: ''
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
