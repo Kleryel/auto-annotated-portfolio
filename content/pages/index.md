@@ -15,9 +15,12 @@ sections:
     backgroundSize: full
     title: "Studio Legale Carta & Associati\_ \_ \_ Il Vostro Partner Legale di Fiducia dal 1999"
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Benvenuti nello Studio Legale Carta & Associati, situato nel cuore di
+      Nuoro. Dal 1999, siamo un punto di riferimento di eccellenza nel panorama
+      legale, dedicati a fornire assistenza e consulenza legale di altissimo
+      livello. La nostra lunga storia e la nostra reputazione consolidata sono
+      testimonianza del nostro impegno verso i clienti e della qualità dei
+      nostri servizi.
     styles:
       self:
         height: auto
