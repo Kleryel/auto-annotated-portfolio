@@ -50,7 +50,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: Stay up-to-date with my words ✍️
+    title: CONTATTACI ✍️
     colors: colors-f
     form:
       type: FormBlock
