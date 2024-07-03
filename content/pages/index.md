@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Studio Legale Carta & AssociatiIl Vostro Partner Legale di Fiducia dal
+      Studio Legale Carta & Associati Il Vostro Partner Legale di Fiducia dal
       1999
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
