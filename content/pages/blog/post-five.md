@@ -1,6 +1,9 @@
 ---
 type: PostLayout
-title: ''
+title: >-
+  Ci dedichiamo a risolvere le problematiche legali con soluzioni innovative e
+  personalizzate, garantendo trasparenza e costruendo relazioni di fiducia
+  durature.
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
