@@ -13,8 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-
+    text: >
       Se avete bisogno di assistenza legale, non esitate a contattarci. Lo
       Studio Legale Carta & Associati è qui per supportarvi con competenza e
       dedizione. Potete raggiungerci presso il nostro ufficio a Nuoro o
@@ -22,11 +21,21 @@ sections:
       fornirvi il miglior supporto legale possibile.
 
 
-      mail: studiolegale.carta.asso\@gmail.com
+      **Indirizzo**: Via Roma 0, Nuoro 08100 Italy
+
+      **Telefono**: +39 0784 320071
+
+      **Email**: studiolegale.carta.asso\@gmail.com
 
 
 
 
+      Studio Legale Carta & Associati - Al vostro fianco dal 1999, per un futuro
+      più sicuro e sereno
+
+
+
+      mail: <studiolegale.carta.asso@gmail.com>
     media:
       type: ImageBlock
       url: /images/about.jpg
