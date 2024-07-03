@@ -11,7 +11,7 @@ description: >-
   con competenza e professionalità in ogni situazione.
 featuredImage:
   type: ImageBlock
-  url: /images/contact.jpg
+  url: /images/immagine_2024-07-03_191402709.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
