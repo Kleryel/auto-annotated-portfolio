@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: "How to Structure and Organize a Next.js Project \U0001F5C2️"
+title: "Ci dedichiamo a risolvere le problematiche legali con soluzioni innovative e personalizzate, garantendo trasparenza e costruendo relazioni di fiducia durature. \U0001F5C2️"
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
