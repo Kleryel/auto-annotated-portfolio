@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
+  url: /images/immagine_2024-07-03_195558368.png
   altText: Post thumbnail image
 media:
   url: /images/post-2.jpg
