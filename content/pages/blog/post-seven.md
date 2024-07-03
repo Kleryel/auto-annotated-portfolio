@@ -6,7 +6,9 @@ title: >-
 colors: colors-a
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
-excerpt: ''
+excerpt: >-
+  Lo Studio Legale Carta & Associati ha sempre guardato al futuro con
+  determinazione e spirito innovativo.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
