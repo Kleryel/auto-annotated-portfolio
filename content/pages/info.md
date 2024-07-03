@@ -13,11 +13,20 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+
+      Se avete bisogno di assistenza legale, non esitate a contattarci. Lo
+      Studio Legale Carta & Associati è qui per supportarvi con competenza e
+      dedizione. Potete raggiungerci presso il nostro ufficio a Nuoro o
+      contattarci tramite telefono o email. Siamo pronti ad ascoltarvi e a
+      fornirvi il miglior supporto legale possibile.
+
+
+      mail: studiolegale.carta.asso\@gmail.com
+
+
+
+
     media:
       type: ImageBlock
       url: /images/about.jpg
