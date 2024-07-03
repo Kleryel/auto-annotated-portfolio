@@ -110,17 +110,13 @@ bottomSections:
 ---
 SOCI FONDATORI
 
-> "*chentu concas, chentu berritas"*
+"*chentu concas, chentu berritas"
 
-
-
-\<div style="text-align: left">**Associati**\</div>
+**Associati**
 
 Avv. Mario Carta (Esperto in Diritto Tributario e Civile)
 
 Avv. Lucia Carta (Specializzata in Diritto Penale e del Lavoro)
-
-
 
 **Collaboratori**
 
@@ -130,13 +126,10 @@ Avv. Anna Biancu (Diritto del Lavoro e Tributario)
 
 Avv. Rita Carta (Diritto del Lavoro e Tributario)
 
-****
+***
 
-**Staff Amministrativo**  
+**Staff Amministrativo**
 
-*   *   Maria Contu (Responsabile Amministrativo)*   Carla Melis (Segreteria e Supporto Clienti)
-
-
-
-
+Maria Contu (Responsabile Amministrativo)
+Carla Melis (Segreteria e Supporto Clienti)
 
