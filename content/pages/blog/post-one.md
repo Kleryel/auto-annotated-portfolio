@@ -108,26 +108,35 @@ bottomSections:
       text:
         textAlign: left
 ---
-
-
-## SOCI FONDATORI
+SOCI FONDATORI
 
 > "*chentu concas, chentu berritas"*
 
-*   Avv. Mario Carta (Esperto in Diritto Tributario e Civile)
-
-*   Avv. Lucia Carta (Specializzata in Diritto Penale e del Lavoro)
 
 
+\<div style="text-align: left">**Associati**\</div>
 
-## Associati
+Avv. Mario Carta (Esperto in Diritto Tributario e Civile)
 
-*   *   **Staff Amministrativo***   Avv. Giovanni Ruju (Diritto Amministrativo e Civile)*   Avv. Anna Biancu (Diritto del Lavoro e Tributario)*   Avv. Rita Carta (Diritto del Lavoro e Tributario)
+Avv. Lucia Carta (Specializzata in Diritto Penale e del Lavoro)
 
 
-    **Collaboratori**
 
-    *   Dott.ssa Francesca Piras (Praticante Avvocato, Diritto Civile)
+**Collaboratori**
 
-    *   Dott. Luca Sanna (Praticante Avvocato, Diritto Penale)
+Avv. Giovanni Ruju (Diritto Amministrativo e Civile)
+
+Avv. Anna Biancu (Diritto del Lavoro e Tributario)
+
+Avv. Rita Carta (Diritto del Lavoro e Tributario)
+
+****
+
+**Staff Amministrativo**  
+
+*   *   Maria Contu (Responsabile Amministrativo)*   Carla Melis (Segreteria e Supporto Clienti)
+
+
+
+
 
