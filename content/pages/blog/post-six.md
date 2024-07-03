@@ -2,7 +2,7 @@
 type: PostLayout
 title: "Ci dedichiamo a risolvere le problematiche legali con soluzioni innovative e personalizzate, garantendo trasparenza e costruendo relazioni di fiducia durature. \U0001F5C2️"
 colors: colors-a
-date: '2024-06-03'
+date: '2016-09-03'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 bottomSections:
